@@ -2,14 +2,6 @@
     box-sizing: border-box !important;
 }
 
-header .nav-item .nav-link:focus {
-    color: #fffffff9 !important;
-}
-
-header .nav-item .nav-link:active {
-    color: #fffffff9 !important;
-}
-
 .bg-secondary {
     background-color: #3e4548fc !important;
 }
