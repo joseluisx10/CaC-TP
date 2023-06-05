@@ -1,0 +1,12 @@
+.box-cars{
+    padding-top: 9rem;
+}
+
+#form-label-total{
+    background-color: rgb(157, 198, 250);
+}
+
+.btn.btn-success{
+    background-color: #5eb153c2 !important;
+    border: #49db69cc;
+}
